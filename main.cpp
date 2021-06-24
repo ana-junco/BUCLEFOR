@@ -1,6 +1,8 @@
 #include <iostream>
 using namespace std;
 int main() {
+    //Ejercicios en clases
+
     //1.Imprimir 5 veces las palabra PUCESE
     //for (int i = 0; i < 5; i++)
     for (int i = 0; i < 5; i++)
